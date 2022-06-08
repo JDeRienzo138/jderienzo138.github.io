@@ -1,5 +1,5 @@
 body {
-    background-color: darkslategray;
+    background-color: linear-gradient(to bottom right,darkorchid,darkslategray);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
