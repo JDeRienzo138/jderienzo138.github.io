@@ -1,0 +1,37 @@
+/*  Scrollbars */
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: rgb(0,0,0,0);
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 50%;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+    border-radius: 50%;
+  }
+
+  /* Links */
+  
+  a:link {
+      text-decoration: none;
+      color: darkorange;
+  }
+  a:visited {
+      color: orangered;
+  }
+  a:hover {
+      color: orange;
+      text-shadow: 0 0 3px black;
+  }
